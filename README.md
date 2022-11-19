@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Mary2021-dot
+- 👋 Hi, I’m @Marilyne Nelima
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me marilynenelima@gmail.com
+- 📫 How to reach me  marilynenelima@gmail.com
 
 <!---
 Mary2021-dot/Mary2021-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
